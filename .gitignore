@@ -1,0 +1,9 @@
+#Virtual Environment
+venv/
+
+#To be removed if I ever implement
+autograd_c/
+
+
+.vscode/
+autograd_py/__pycache__/
